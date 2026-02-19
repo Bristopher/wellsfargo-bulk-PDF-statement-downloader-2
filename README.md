@@ -15,6 +15,10 @@ The original scripts for this task broke when Wells Fargo updated their security
 
 ## How to Install
 
+# EASY INSTALL (may not always work)
+👉** [Click here to go to the Installation Page](https://bristopher.github.io/wellsfargo-bulk-PDF-statement-downloader-2/) and drag the button to your bookmarks bar!"
+
+# Classic Install Method
 1. **Show your Bookmarks Bar** (if not visible): 
    * Press `Ctrl + Shift + B` (Windows) or `Cmd + Shift + B` (Mac).
 2. **Create the Bookmark**:
